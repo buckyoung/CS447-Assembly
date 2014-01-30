@@ -1,6 +1,6 @@
 #Buck Young Project 2
 #bcy3 -- cs447
-#STATUS: Incomplete!
+#STATUS: complete!
 
 	#   color: 0=off, 1=red, 2=orange, 3=green
 
